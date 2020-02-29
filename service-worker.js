@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/itoil-web/precache-manifest.8f5d71630b5c98d11e9f91dd9d6d2529.js"
+  "/itoil-web/precache-manifest.2622805c8df8486ce7753d5dde93e6b1.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04311c814824eab7d77dd393c6319c88",
+    "revision": "47189c62f8959e1fde3f5ea15b51e160",
     "url": "/itoil-web/index.html"
   },
   {
-    "revision": "d06672c1fc34b2b1891b",
+    "revision": "95c32426e92cdefcc606",
     "url": "/itoil-web/static/css/2.9d8c6f78.chunk.css"
   },
   {
-    "revision": "9caea3a8a17a672ba9db",
-    "url": "/itoil-web/static/css/main.2817abd9.chunk.css"
+    "revision": "25fd06000da5b030e5d4",
+    "url": "/itoil-web/static/css/main.923fadff.chunk.css"
   },
   {
-    "revision": "d06672c1fc34b2b1891b",
-    "url": "/itoil-web/static/js/2.7885befb.chunk.js"
+    "revision": "95c32426e92cdefcc606",
+    "url": "/itoil-web/static/js/2.5d28147b.chunk.js"
   },
   {
-    "revision": "94b29ac6d0ec426932e82da99c88b81c",
-    "url": "/itoil-web/static/js/2.7885befb.chunk.js.LICENSE.txt"
+    "revision": "9a0e6ad7df4effc3aa6ea7f039958117",
+    "url": "/itoil-web/static/js/2.5d28147b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9caea3a8a17a672ba9db",
-    "url": "/itoil-web/static/js/main.ee4650ca.chunk.js"
+    "revision": "25fd06000da5b030e5d4",
+    "url": "/itoil-web/static/js/main.6a8553a1.chunk.js"
   },
   {
     "revision": "a2aafe3a8d725c913aa0",
