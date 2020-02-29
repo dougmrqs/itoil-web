@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/itoil/static/css/main.2817abd9.chunk.css",
+    "main.js": "/itoil/static/js/main.6e018e97.chunk.js",
+    "main.js.map": "/itoil/static/js/main.6e018e97.chunk.js.map",
+    "runtime-main.js": "/itoil/static/js/runtime-main.65085757.js",
+    "runtime-main.js.map": "/itoil/static/js/runtime-main.65085757.js.map",
+    "static/css/2.3fcd293c.chunk.css": "/itoil/static/css/2.3fcd293c.chunk.css",
+    "static/js/2.7885befb.chunk.js": "/itoil/static/js/2.7885befb.chunk.js",
+    "static/js/2.7885befb.chunk.js.map": "/itoil/static/js/2.7885befb.chunk.js.map",
+    "index.html": "/itoil/index.html",
+    "precache-manifest.f2d23b56552197f1d87617afc8a5ba83.js": "/itoil/precache-manifest.f2d23b56552197f1d87617afc8a5ba83.js",
+    "service-worker.js": "/itoil/service-worker.js",
+    "static/css/2.3fcd293c.chunk.css.map": "/itoil/static/css/2.3fcd293c.chunk.css.map",
+    "static/css/main.2817abd9.chunk.css.map": "/itoil/static/css/main.2817abd9.chunk.css.map",
+    "static/js/2.7885befb.chunk.js.LICENSE.txt": "/itoil/static/js/2.7885befb.chunk.js.LICENSE.txt",
+    "static/media/airplane.jpg": "/itoil/static/media/airplane.f096d19d.jpg",
+    "static/media/ecosystem.png": "/itoil/static/media/ecosystem.99968c1d.png",
+    "static/media/font-awesome.min.css": "/itoil/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65085757.js",
+    "static/css/2.3fcd293c.chunk.css",
+    "static/js/2.7885befb.chunk.js",
+    "static/css/main.2817abd9.chunk.css",
+    "static/js/main.6e018e97.chunk.js"
+  ]
+}
